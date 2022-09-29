@@ -1,2 +1,5 @@
 hello
 this is vinayak anumalla
+practicing the git commands
+added new line
+git adding command
