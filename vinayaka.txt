@@ -4,3 +4,4 @@ practicing the git commands
 added new line
 git adding command
 adding new line to remove using the revert command
+addine new line to 1
