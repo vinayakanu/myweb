@@ -1,0 +1,10 @@
+adding first line 
+second line 
+third line 
+1
+2
+<<<<<<< HEAD
+=======
+11
+12
+>>>>>>> dev
