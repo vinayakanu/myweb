@@ -4,6 +4,9 @@
 	<h2>pratice</h2>
 	makes man perfect
 	adding one mor line
-	today date is 31st oct 2022
+	adding one mor line
+	adding new line
+	adding new one more line
+	Today date is 31st oct 2022
 </body>
 </html>
