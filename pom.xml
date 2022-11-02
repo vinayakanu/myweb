@@ -39,12 +39,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.212.109.107:8081/repository/myweb/</url>
+		    <url>http://13.212.109.107:8081/repository/myweb-releases/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.212.109.107:8081/repository/myweb-snapshot/</url>
+		    <url>http://13.212.109.107:8081/repository/myweb-snapshots/</url>
 		</repository>
   	</distributionManagement>
 	
